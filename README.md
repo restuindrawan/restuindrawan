@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Restu Indrawan's github stats](https://github-readme-stats.vercel.app/api?username=restuindrawan&theme=onedark)\
+![Restu Indrawan's github stats](https://github-readme-stats.vercel.app/api?username=restuindrawan&theme=onedark&show_icons=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restuindrawan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
