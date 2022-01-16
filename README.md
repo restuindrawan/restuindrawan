@@ -1,6 +1,6 @@
 ![Restu Indrawan's card name](https://cardivo.vercel.app/api?name=Restu%20Indrawan&image=https://avatars.githubusercontent.com/u/57904667&description=20%20Y.O.%20Software%20Engineering%20Student,%20Mobile%20App%20Developer&backgroundColor=%23ecf0f1&instagram=ip.restu&github=restuindrawan&twitter=restu_indrawan&pattern=fourPointStars&colorPattern=%23eaeaea&)
 
-## 👋 Hey There, I'm Restu
+<!--## 👋 Hey There, I'm Restu
 20 Y.O. Software Engineering Student at Institut Teknologi Telkom Purwokerto, who interested in Mobile App Development. I'm currently learning Flutter, love to collaborate.
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Laravel-b90b00?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
-</p>
+</p>-->
 
 ## Github Stats
 <p align="center">
